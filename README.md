@@ -33,7 +33,7 @@ This project focuses on analyzing music streaming data using Power BI. It provid
 ## 📷 Dashboard Preview
 Add your Power BI dashboard screenshots here.
 
-https://github.com/gundupranavi/Music-Streaming-Analytics-Dashboard-Power-BI-/blob/main/Screenshot%20(47).png
+<img width="1323" height="736" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/d1ec49ab-b07a-4d14-989f-6324622edb13" />
 
 ## 💡 Key Learnings
 - Improved data cleaning and transformation skills.
